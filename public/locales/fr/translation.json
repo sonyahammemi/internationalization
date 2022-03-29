@@ -1,0 +1,10 @@
+{
+    "para": {
+        "menu": "Bienvenue dans la page d'acceuil",
+        "contact":"Bienvenue dans la page contact"
+    },
+    "menu": {
+        "home": "Acceuil",
+        "contact": "Contact"
+    }
+}

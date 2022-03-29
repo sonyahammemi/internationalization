@@ -1,0 +1,10 @@
+{
+    "para": {
+        "menu": "Welcome to home page",
+        "contact":"Welcome to contact page"
+    },
+    "menu": {
+        "home": "Home",
+        "contact": "Contact"
+    }
+}
